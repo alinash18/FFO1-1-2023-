@@ -1,0 +1,18 @@
+.all-content{
+    background: rgba(184, 177, 177, 0.36);
+    padding: 15px;
+}
+.main_part, .aside_1, .acide_2 {
+    background-color: rgb(251, 251, 251);
+    padding: 15px;
+    border: solid black 3px;
+    margin: 5px;
+}
+header{
+    background-color:  rgba(124, 116, 116, 0.36);
+}
+article,footer {
+    border: solid gray 3px;
+    padding: 10px;
+    background-color:rgba(229, 223, 223, 0.36) ;
+}
